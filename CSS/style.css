@@ -1,0 +1,45 @@
+/********Tags Selectors********/
+body {
+  background-color: #f4eeff;
+
+}
+hr {
+  background-color: #f4eeff;
+  border-style: dotted hidden hidden hidden;
+  width: 5%;
+  border-top-width: thick;
+  border-top-color: #424874;
+}
+
+h1 {
+  color: #a6b1e1;
+}
+h3{
+  color: #a6b1e1;
+}
+h2 {
+  color: #a6b1e1;
+}
+h4{
+  color: red;
+}
+img{
+  background-color: #dcd6f7;
+}
+p {
+  font-style: italic;
+}
+/*******Class Selectors*****/
+.zerg{
+  background-color: black;
+  width: 100px;
+  height:auto;
+}
+.circular {
+  border-radius: 50%;
+}
+/********ID Selectors********/
+
+#heading {
+  color: blue;
+}
